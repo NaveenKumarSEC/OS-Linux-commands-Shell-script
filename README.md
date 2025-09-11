@@ -1,5 +1,10 @@
 # OS-Linux-commands-Shell-scripting
 Operating systems Lab exercise
+```
+Developed by: Naveenkumar M
+Register number: 212224230182
+
+```
 # Linux commands-Shell scripting
 Linux commands-Shell scripting
 
