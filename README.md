@@ -26,7 +26,7 @@ cat > file1
 ```
 chanchal singhvi
 c.k. shukla
-s.n. dasgupta
+s.n. dasguptacat > file1
 sumit chakrobarty
 ^d
 ```
@@ -34,7 +34,7 @@ cat > file2
 ```
 anil aggarwal
 barun sengupta
-c.k. shukla
+c.k. shukla < file
 lalit chowdury
 s.n. dasgupta
 ^d
@@ -42,6 +42,7 @@ s.n. dasgupta
 ### Display the content of the files
 cat < file1
 ## OUTPUT
+<img width="276" height="147" alt="image" src="https://github.com/user-attachments/assets/daca4092-20cb-4fa6-934d-41238e826043" />
 
 
 
